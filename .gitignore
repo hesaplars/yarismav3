@@ -19,6 +19,8 @@ yarn-error.log*
 # Node/Firebase
 node_modules/
 functions/node_modules/
+firebase/functions/node_modules/
+firebase/functions/lib/
 dist/
 .firebase/
 firebase-debug.log
